@@ -186,7 +186,7 @@
            } else {
                 //create a new element
                 var item = '<li><a href="'+obj.link+'"';
-                if(obj.blank){
+                if(obj.blank === "true"){
                     item+= ' target="_blank"';
                 }
                 item+= '>'+obj.name+'</a></li>';
