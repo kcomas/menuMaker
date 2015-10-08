@@ -8,5 +8,7 @@ link: the href of the link
 
 blank: specify if the attribute target="_blank"
 
+Simply download and run on the client side
+
 
 
