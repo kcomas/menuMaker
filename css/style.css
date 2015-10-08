@@ -1,0 +1,35 @@
+
+ul, ul li {
+    list-style:none;
+}
+
+.menu-builder {
+    margin-top:50px;
+}
+
+.list-group-item,.ui-state-highlight {
+    min-height:40px;
+}
+
+.ui-state-highlight {
+    background-color:#ccc;
+}
+
+.sub-item {
+    min-height:15px;
+    width:100%;
+    display:inline-block;
+}
+
+.sub-div {
+    float:left;
+}
+
+.remove,.edit {
+    float:right;
+}
+
+.button-row {
+    margin:10px 0;
+}
+
