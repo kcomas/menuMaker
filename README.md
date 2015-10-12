@@ -10,5 +10,7 @@ blank: specify if the attribute target="_blank"
 
 Simply download and run on the client side
 
+To use click the add link button afer filling in the fileds on the top, then you can drag and drop the links into each other if needed and nest as many as you want
+
 
 
